@@ -1,0 +1,74 @@
+{
+  "login": [
+    {
+      "username": "swathi",
+      "password": "swathi0127",
+      "email": "swa@gmail.com",
+      "contact": "9843063541",
+      "id": 1
+    },
+    {
+      "username": "nik",
+      "email": "hello@gmail.com",
+      "password": "123",
+      "contact": "9842833541",
+      "id": 2
+    },
+    {
+      "username": "yash",
+      "email": "he@gmail.com",
+      "password": "yash",
+      "contact": "7708533540",
+      "id": 3
+    },
+    {
+      "username": "donald",
+      "email": "donald@email.com",
+      "password": "2728",
+      "contact": "9489639996",
+      "id": 4
+    },
+    {
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "password": "swathi0127",
+      "contact": "1234567890",
+      "id": 5
+    },
+    {
+      "username": "yeshvi",
+      "email": "viyes@gmail.com",
+      "password": "0127",
+      "contact": "9843063540",
+      "id": 6
+    },
+    {
+      "username": "Olivia",
+      "email": "oliv@gmail.com",
+      "password": "123",
+      "contact": "9843063541",
+      "id": 7
+    },
+    {
+      "username": "kim",
+      "email": "kim@gmail.com",
+      "password": "1234",
+      "contact": "7896541230",
+      "id": 8
+    },
+    {
+      "username": "Aishu",
+      "email": "ais@gmail.com",
+      "password": "2728",
+      "contact": "7894512358",
+      "id": 9
+    },
+    {
+      "username": "swathi",
+      "email": "swathiss740@gmail.com",
+      "password": "123",
+      "contact": "09748541230",
+      "id": 10
+    }
+  ]
+}
